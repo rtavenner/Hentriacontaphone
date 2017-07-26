@@ -3,6 +3,7 @@
 This is a 31-tone keyboard.
 
 Press keys on your keyboard to play the keys on the instrument.
+In particular, try pressing the Z, C, G, N, and I keys for a cool chord!
 
 I tried to make the instrument keys line up with the computer keys in an obvious way.
 However, the placement of the F1, F2, ... keys is different on every keyboard.
